@@ -32,7 +32,7 @@
 
 ##
 <div align="center"><br/>
-  <h3>Skills</h3>
+  <h3>Main Technologies</h3>
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -51,7 +51,7 @@
 
 ##
 <div align="center">
-  <h3>Contributions</h3>
+  <h3>GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=marafabiana&show_icons=true&theme=tokyonight" alt="Mara Fabiana's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marafabiana&layout=compact&theme=tokyonight" alt="Top Langs" />
