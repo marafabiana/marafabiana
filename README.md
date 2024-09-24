@@ -9,7 +9,7 @@
 - 💙 Passionate about technology and its challenges;
 - 💻 Full Stack JavaScript Developer by [@Folkuniversitetet](https://www.folkuniversitetet.se/vara-skolor/yh-utbildningar/alla-yh-utbildningar/javascriptutvecklare-distans/);
 - 📚 Bachelor's degree in Business Administration and Economics;
-- 🌱 In addition to technology, I have a strong interest in arts and culture, education, and environmental sustainability.
+- 🌎 In addition to technology, I have a strong interest in arts and culture, education, and environmental sustainability.
   
 
   <br/>
