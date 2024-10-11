@@ -1,24 +1,19 @@
 <div align="center">
-  <h1>Hello! I am Mara Fabiana 👩🏻‍💻</h1>
+  <h1>👋 Hi there, I'm Mara Fabiana!</h1>
 </div>
 
-<div align="center">
-  <h2>Full Stack JavaScript Developer</h2>
-</div>
-
-- 💙 Passionate about technology and its challenges;
-- 💻 Full Stack JavaScript Developer by [@Folkuniversitetet](https://www.folkuniversitetet.se/vara-skolor/yh-utbildningar/alla-yh-utbildningar/javascriptutvecklare-distans/);
+- 👩🏻‍💻 Full Stack JavaScript student at [@Folkuniversitetet](https://www.folkuniversitetet.se/vara-skolor/yh-utbildningar/alla-yh-utbildningar/javascriptutvecklare-distans/);
 - 📚 Bachelor's degree in Business Administration and Economics;
 - 🌎 In addition to technology, I have a strong interest in culture, education, and environmental sustainability.
   
 
   <br/>
   
-- 📌 Here you will find projects that I am developing and working on during my studies.
+📍 Here you will find projects that I am working on during my studies.
   
 ## 
 <div align="center">
-  <h3>Contacts</h3>
+  <h3>💬 Contacts</h3>
   <a href="https://www.linkedin.com/in/marabenevides/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
@@ -32,7 +27,7 @@
 
 ##
 <div align="center"><br/>
-  <h3>Main Technologies</h3>
+  <h3>🚀 Main Technologies</h3>
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -51,7 +46,7 @@
 
 ##
 <div align="center">
-  <h3>GitHub Stats</h3>
+  <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=marafabiana&show_icons=true&theme=tokyonight" alt="Mara Fabiana's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marafabiana&layout=compact&theme=tokyonight" alt="Top Langs" />
