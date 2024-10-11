@@ -9,7 +9,7 @@
 
   <br/>
   
-📍 Here you will find projects that I am working on during my studies.
+📌 Here you will find projects that I am working on during my studies.
   
 ## 
 <div align="center">
