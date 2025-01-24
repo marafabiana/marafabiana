@@ -3,7 +3,6 @@
 </div>
 
 - 👩🏻‍💻 JavaScript student at [@Folkuniversitetet](https://www.folkuniversitetet.se/vara-skolor/yh-utbildningar/alla-yh-utbildningar/javascriptutvecklare-distans/);
-- 📚 Bachelor's degree in Business Administration and Economics;
 - 🌎 In addition to technology, I have a strong interest in culture, education, and environmental sustainability.
   
 
