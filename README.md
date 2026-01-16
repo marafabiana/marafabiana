@@ -2,10 +2,6 @@
   <h1>👋 Hi there, I'm Mara Fabiana!</h1>
 </div>
 
-- 👩🏻‍💻 JavaScript student at [@Folkuniversitetet](https://www.folkuniversitetet.se/vara-skolor/yh-utbildningar/alla-yh-utbildningar/javascriptutvecklare-distans/);
-- 🌎 In addition to technology, I have a strong interest in culture, education, and environmental sustainability.
-  
-
   <br/>
   
 📌 Here you will find projects that I am working on during my studies.
