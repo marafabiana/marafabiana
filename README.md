@@ -22,12 +22,7 @@
 
 
 ##
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=marafabiana&show_icons=true&theme=tokyonight" alt="Mara Fabiana's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marafabiana&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+
 
 
 
