@@ -1,6 +1,12 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0077B5&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=%230A66C2&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Banner" />
+
 <div align="center">
-  <h1>Hi there, I'm Mara Fabiana!👋 </h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0077B5&center=true&vCenter=true&width=550&lines=Hi+there%F0%9F%91%8B%2C+I'm+Mara+Fabiana!" alt="Typing SVG" />
+  </a>
 </div>
+
+---
 
   <br/>
   
@@ -20,12 +26,9 @@
   </a>
 </div>
 
-
-##
-
-
-
-
+  <br/>
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0077B5&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=%230A66C2&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Footer Banner" />
 
 <!---
 marafabiana/marafabiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
